@@ -1,0 +1,16 @@
+ Total there are 9 subjects.
+ Each subject is performing 5 sessions.
+ First two sessions are without feedback but the next three sessions are with feedback.
+ So total number of files are 45 (9 subjects x 5 sessions)
+ There are total 45 GDF(General Data Format) Files.
+ The last two files (with feedback) of each subject is for evaluation.
+ There is no need to use files for evaluation.
+ It means we have to use 27 files.
+ Each file have EOG(Eyes moments) at start except session B0102T and B0504E.
+ Each files having different number of events and different number of runs.
+ Each run having 20 trails.
+ Out of 20 trails 10 trails are from class left and 10 from class right.
+ All trails are randomly distributed.
+ And the length of each trail is different.
+ Sampling frequency is 250 Hz.
+ Each file is containing signals for different electrodes but we have to extract data for C3 and C4.  
